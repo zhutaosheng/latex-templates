@@ -40,7 +40,7 @@
 * 
 
 ## LaTeX Software Tutorials
-suggest that texstudio have a latex reference for many things!
+suggest that texstudio have a latex reference for many things! and TeXstudio : User manual
 * [LaTeX-Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme) - Curated list of LaTeX awesomeness
 * [TikZ-Awesome TikZ](https://github.com/xiaohanyu/awesome-tikz#readme) - A curated list of awesome TikZ documentations, libraries and resources.
 * [PGF/TikZ Manual](https://tikz.dev/) - The TikZ and PGF Packages
