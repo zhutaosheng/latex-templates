@@ -5,7 +5,7 @@
 
 - [latex-code](#latex-code)
   - [Keywords](#keywords)
-  - [LaTeX templates GitHub Repositories](#latex-templates-github-repositories)
+  - [LaTeX templates Repositories](#latex-templates-repositories)
   - [About LaTeX tools](#about-latex-tools)
   - [Other LaTeX tools](#other-latex-tools)
   - [LaTeX Software Tutorials](#latex-software-tutorials)
@@ -16,10 +16,16 @@
 ## Keywords
 * Text Programming
 
-## LaTeX templates GitHub Repositories
+## LaTeX templates Repositories
+*LaTeX templates GitHub Repositories*
+* [LaTeX-examples](https://github.com/MartinThoma/LaTeX-examples) - More than 570 examples for the usage of LaTeX. You can check that with the following command:
 * [LaTeX templates dustinvtran](https://github.com/dustinvtran/latex-templates)
 * [latex-homework-template](https://github.com/jdavis/latex-homework-template)
+* [latex-template-collection-cmichi](https://github.com/cmichi/latex-template-collection) - Collection of different LaTeX/XeTeX templates (cv, invoices, timesheets, letters, etc.).
+* [ElegantBook](https://github.com/ElegantLaTeX/ElegantBook): An Elegant LaTeX Template for Books
 
+*LaTeX templates from the other website*
+[LaTeX Templates - latextemplates.com](http://www.latextemplates.com/) - LaTeX Templates
 
 ## About LaTeX tools
 * [Overleaf](https://www.overleaf.com/) - The easy to use, online, collaborative LaTeX editor. overleaf [learn/how-to](https://www.overleaf.com/learn/how-to/Creating_a_document_in_Overleaf)
@@ -34,6 +40,7 @@
 * 
 
 ## LaTeX Software Tutorials
+suggest that texstudio have a latex reference for many things!
 * [LaTeX-Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme) - Curated list of LaTeX awesomeness
 * [TikZ-Awesome TikZ](https://github.com/xiaohanyu/awesome-tikz#readme) - A curated list of awesome TikZ documentations, libraries and resources.
 * [PGF/TikZ Manual](https://tikz.dev/) - The TikZ and PGF Packages
