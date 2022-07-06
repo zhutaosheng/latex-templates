@@ -1,1 +1,0 @@
-nachbar(X, Y) :- farbe(X), farbe(Y), X \= Y.
