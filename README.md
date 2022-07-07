@@ -12,7 +12,6 @@
   - [LaTeX Software Tutorials](#latex-software-tutorials)
 
 # latex-code
-*Personal usage*
 
 ## Keywords
 * Text Programming
